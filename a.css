@@ -1,0 +1,98 @@
+
+
+
+
+
+
+.bar {
+   display: block;
+
+}
+
+.listBar {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   background-color: #042242;
+}
+
+li {
+   float: left;
+   padding: 3px;
+
+ }
+
+ li a {
+   text-decoration: none;
+   text-align: center;
+   padding: 14px 16px;
+   display: block;
+   color: white;
+   margin: 10px;
+ }
+
+ li a:hover {
+     color: #769EDB;
+     border-bottom: 2px #769EDB solid;
+     font-size: 16.5px;
+ }
+
+ .homepage {
+  background-color: #aecdeb7e;
+   padding-top: 8rem;
+   position: relative;
+   height: 90vh;
+ }
+
+.container {
+    text-align: left;
+    padding-top: 150px;
+    margin: 150px;
+}
+
+#name {
+   font-size: 56px;
+ }
+
+ #founder {
+   font-size: 30px;
+}
+
+ #home {
+     background-image: url("k.jpeg");
+     background-size: 100% 100%;
+     background-repeat: no-repeat;
+     background-position: left;
+ }
+
+ #about{
+   background-color: white;
+   margin-right: 100px;
+    margin-left:100px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+   height: 80rem;
+
+ }
+
+
+ .pic{
+   width:90%;
+   height: 480px;
+    margin-top:50px;
+
+     background-color: white;
+     display:block;
+ }
+ img.markpic{
+   float:left;
+   margin: 0px 100px 40px 0px;
+   width: 400px;
+   height: 400px;
+ }
+ .skill h5{
+   display:block;
+   color:black;
+   font-style: italic;
+ }
